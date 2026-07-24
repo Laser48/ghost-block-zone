@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAEAEAAAAAAAAIEICAAAAAFUiRSIAAAAAUFVVJQIAAAAAAgUFAgAAAEBURVUCAAAAAFRAUAAAAABAVFVVAAAAAEAgRAAAAAAAQEQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Blazer"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAIAJQAAAAAAAAAlAAAAAAAAAgUCACAAAARCBFIAAAAABAIEUgAAAAAFVURSIFAAAAUAVSVQAAAAAAUlVAAAAAAABQAEAEAAAAACUAAAQAAAAAACIAAAAAAAAAIAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "FireSpark"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
